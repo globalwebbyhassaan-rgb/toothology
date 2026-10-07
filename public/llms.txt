@@ -1,0 +1,22 @@
+# Amin Health Studio
+
+> Specialized Dental clinic & Physiotherapy in Lahore.
+
+## Clinic
+
+- Name: Amin Health Studio
+- Address: 60 CCA, Khayaban E Amin, Lahore, Pakistan
+- Phone: 03260866651
+- Hours: 12 PM - 9 PM daily
+
+## Services
+
+- Dental consultations and checkups
+- Teeth cleaning and hygiene
+- Dental fillings and root canal treatment
+- Teeth whitening and cosmetic dentistry
+- Physiotherapy for pain management, rehabilitation, sports injuries, post-injury recovery, mobility and strength
+
+## Booking
+
+Appointments can be requested through the website or by calling 03260866651.
